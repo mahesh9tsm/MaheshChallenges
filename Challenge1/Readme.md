@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/106945519/177029324-faafa818-f7e0-448f-97c2-a804086c9048.png)
 
 
-**Please find the screenshots,related to resources created in Azure through Terraform**
+**Please find the screenshots,related to resources created in Azure portal through Terraform**
 
 ![image](https://user-images.githubusercontent.com/106945519/177030129-7302ce2d-5f50-44ce-a841-6528a93e3ae3.png)
 ![image](https://user-images.githubusercontent.com/106945519/177030146-ddd4bd79-2e53-4a5b-a35d-117f9ab22fdc.png)
