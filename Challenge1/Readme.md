@@ -1,0 +1,11 @@
+
+**Challenge1 - Create Simple 4 Tier Environment**
+
+1. I have used Terraform to build the setup.
+2. Created Vnet and 4 subnets (web,app,db and bastion subnet)
+3. Created two VM's for each web,app, db VM's with availbility zones used meta argument count to create multiple VMs.
+4. No public ip was provided to the VM's , VM's will be accessed through Bastion VM which is created with Public IP.
+5. Created External Load balancer which connects to webvm and two Internal Load balancer for APP and DB VM's load Balancing
+
+**Please find the 4 tier Architecture Design**
+
