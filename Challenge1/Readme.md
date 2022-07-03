@@ -14,4 +14,9 @@
 
 **Please find the screenshots,related to resources created in Azure through Terraform**
 
+![image](https://user-images.githubusercontent.com/106945519/177030129-7302ce2d-5f50-44ce-a841-6528a93e3ae3.png)
+![image](https://user-images.githubusercontent.com/106945519/177030146-ddd4bd79-2e53-4a5b-a35d-117f9ab22fdc.png)
+![image](https://user-images.githubusercontent.com/106945519/177030166-7d27ef56-026b-46b7-9028-9379e5f7f181.png)
+
+
 
