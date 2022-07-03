@@ -1,5 +1,5 @@
 # MaheshChallenges
-This Contains three Challenges
+This Contains three Challenges.Each of the Challenge folder contain a readme file which describes about the code and procedure followed.
 
 Challenge #1
 
