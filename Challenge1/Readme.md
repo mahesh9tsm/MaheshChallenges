@@ -1,5 +1,5 @@
 
-**Challenge1 - Created Simple 4 Tier Environment**
+**Challenge1 - Created Simple 4 Tier Environment using Terraform**
 
 1. I have used Terraform to build the setup.
 2. Created Vnet and 4 subnets (web,app,db and bastion subnet)
