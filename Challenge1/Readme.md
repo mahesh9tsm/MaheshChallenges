@@ -12,3 +12,6 @@
 ![image](https://user-images.githubusercontent.com/106945519/177029324-faafa818-f7e0-448f-97c2-a804086c9048.png)
 
 
+**Please find the screenshots,related to resources created in Azure through Terraform**
+
+
